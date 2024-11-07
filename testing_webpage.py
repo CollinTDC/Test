@@ -2,7 +2,7 @@
 import streamlit as st
 
 # Title of the webpage
-st.title("Basic Streamlit Webpage V1")
+st.title("Basic Streamlit Webpage")
 
 # Adding a header
 st.header("Welcome to My Streamlit Webpage")
